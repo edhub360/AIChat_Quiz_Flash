@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Study Buddy",
+  "description": "An AI-powered study assistant featuring an interactive chat, a quiz generator, and a flashcard creator to help users learn and revise any topic.",
+  "requestFramePermissions": []
+}
